@@ -4,7 +4,7 @@
 Поддерживает разную хрень, юзайте на страх и риск.
 
 Установка:
- - `git clone https://github.com/asyven/paper-bot-wss.git`
+ - `git clone https://github.com/asyven/lords-bot.git`
  - `npm install`
  - настроить `accounts.js`
 
