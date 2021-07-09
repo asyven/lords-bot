@@ -7,6 +7,8 @@
  - `git clone https://github.com/asyven/lords-bot.git`
  - `npm install`
  - настроить `accounts.js`
+ - запуск: `node index.js`
+
 
 Сделан за вечер, возможность бана - **огромная**, отслеживайте закономерность и улучшайте работу.
 
